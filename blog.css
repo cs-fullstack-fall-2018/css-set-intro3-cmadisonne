@@ -1,0 +1,17 @@
+.date{
+    color: cornflowerblue;
+}
+
+.post + .post{
+    border: 8px darkgray;
+}
+
+
+body{
+    border: 20px solid darkgray;
+    padding: 20px;
+}
+
+.quote{
+    border-left: solid darkgray;
+}
